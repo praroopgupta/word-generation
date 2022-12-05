@@ -1,6 +1,6 @@
 Author: Praroop Gupta
 
-This project is a spring boot project.
+This project is a spring boot application.
 
 Main Class: WordGenerationApplication.java
 
